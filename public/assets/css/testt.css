@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    min-width: 50%;
+}
+
+.image-section {
+    flex: 1 0 100%;
+    /* this will make each image section take up 100% of the parent element width */
+    background-color: black;
+}
+
+.image-section:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    /* background opacity changes to 0.7 when hovered over */
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+}
