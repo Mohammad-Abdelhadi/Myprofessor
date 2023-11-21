@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Professor: Bridging Education Gaps with Ease</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
 
-        h1 {
-            color: #0366d6;
-        }
-
-        h2 {
-            color: #24292e;
-        }
-
-        p {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
 
 <h1>My Professor: Bridging Education Gaps with Ease</h1>
 
@@ -61,5 +35,3 @@
 
 <p><em>Built on PHP Laravel, My Professor is a dynamic platform aiming to empower students, teachers, and parents by simplifying the process of finding and connecting with qualified educators across Jordan.</em></p>
 
-</body>
-</html>
