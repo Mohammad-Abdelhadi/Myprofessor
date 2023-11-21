@@ -3,6 +3,18 @@
 <h1>My Professor: Bridging Education Gaps with Ease</h1>
 
 <p>My Professor is a user-friendly web app designed to connect teachers and students seamlessly. Teachers can effortlessly share their skills and offer additional help through detailed profiles, providing students with extra support and creating an opportunity for teachers to earn additional income.</p>
+<h1>Project Objectives:</h1>
+Our project aims to help the student and the teacher to provide a few factors that help the student and teacher to find the best way to learn and raise the level of education in the region,
+
+
+Our project also aims:
+
+<ol>
+    <li><strong>Saving time and effort (for students and teachers)</li>
+    <li><strong>Meet the needs of students</li>
+    <li><strong>Providing additional income for teachers</li>
+    <li><strong>Choosing the right study place for both parties</li>
+</ol>
 
 <h2>Key Features:</h2>
 
